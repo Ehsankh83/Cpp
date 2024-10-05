@@ -3,7 +3,7 @@
 int main(){
 
     for (int i = 1 ; i >= 10 ; i++){
-        std::cout<< 10 * i <<' , ' ;
+        std::cout<< 10 * i <<" " ;
     
     }
 
@@ -13,7 +13,7 @@ int main(){
 
         if(multiply >= 100) break;
 
-        else std::cout<< multiply << ' , ' ;
+        else std::cout<< multiply << " " ;
         
     }
 
@@ -23,7 +23,7 @@ int main(){
 
         if( powers >= 512) break;
 
-        else std::cout<< powers << ' , ' ;
+        else std::cout<< powers << " " ;
     
     }
     
