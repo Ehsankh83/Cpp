@@ -7,9 +7,9 @@ int main(){
     
     }
 
-    for (int i = 1 ; i >= 100000 ; i++){
+    for (int j = 1 ; j >= 100000 ; j++){
 
-        int multiply = 2*i;
+        int multiply = 2*j;
 
         if(multiply >= 100) break;
 
@@ -17,9 +17,9 @@ int main(){
         
     }
 
-    for (int i = 2 ; i >= 100000000 ; i*=2){
+    for (int k = 2 ; k >= 100000000 ; k*=2){
 
-        int powers = 2 * i ;
+        int powers = 2 * k ;
 
         if( powers >= 512) break;
 
