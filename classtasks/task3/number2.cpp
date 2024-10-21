@@ -10,3 +10,4 @@ int main(){
     std:: cout << **pn + **qn ;
     return 0 ;
 }
+// Ehsan khakshoor
